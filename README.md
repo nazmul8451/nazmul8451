@@ -1,93 +1,135 @@
-<p align="center">
-  <img src="https://github.com/nazmul8451/nazmul_islam_rimon/blob/main/Nazmul%20islam%20Rimon%20(1).png" />
-</p>
-🧑‍💻 Rimon Islam — Flutter Developer | Mobile App Engineer
+<!-- Stylish Portfolio-Like GitHub README for Rimon Islam -->
+<div align="center" style="font-family: 'Poppins', sans-serif;">
 
-Hi there 👋  
-I'm **Rimon**, a passionate **Flutter developer and mobile app engineer** from **Dhaka, Bangladesh**.  
-I specialize in building **high-performance, scalable, and visually appealing mobile applications** using **Flutter**, along with advanced state management solutions like **GetX** and **Provider**.  
+<h1 style="font-size: 42px; color: #00bcd4; margin-bottom: 10px;">🧑‍💻 Rimon Islam</h1>
+<h3 style="font-size: 22px; color: #666;">Flutter Developer | Mobile App Engineer | Problem Solver</h3>
 
-I have hands-on experience with:  
-- **REST API integration** for dynamic data handling  
-- **Local storage solutions** such as **SQLite**, **GetStorage**, and **SharedPreferences**  
-- **Firebase** for backend services, authentication, and real-time database  
-- Building **clean, responsive, and user-friendly UI/UX** for modern mobile apps  
-
-I enjoy **problem-solving** and transforming complex challenges into efficient, maintainable solutions.  
-My goal is to become a **professional software engineer**, creating innovative apps that make a real impact in users’ daily lives.  
-
-I am constantly learning and exploring new technologies, focusing on **mobile app development, state management, backend integration, and performance optimization** to deliver high-quality solutions.
-
-🛠️ Tech Stack
-<p align="center">
-
-<!-- Languages -->
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-<!-- Frameworks & Tools -->
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-4479A1?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![SharedPreferences](https://img.shields.io/badge/SharedPreferences-4DB6AC?style=flat&logo=google&logoColor=white)
-![GetStorage](https://img.shields.io/badge/GetStorage-8E24AA?style=flat&logo=flutter&logoColor=white)
-
-<!-- Additional App Dev Tools -->
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=postman&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![Sqflite](https://img.shields.io/badge/Sqflite-4DB6AC?style=flat&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
+<p style="font-size: 16px; color: #888; max-width: 700px; margin: 20px auto;">
+🚀 Passionate about crafting high-performance, scalable, and visually appealing mobile apps with Flutter.  
+I love turning ideas into elegant digital products that make everyday life easier.
 </p>
 
+---
 
-### 📱 Projects
+### 🛠️ Tech Stack
 
-#### 🗂️ Task Manager App  
-A clean and functional **Task Management** app built with **Flutter**, **GetX**, and **REST API** integration.  
-- Add, update, and delete tasks  
-- Manage task completion with checkbox  
-- Backend integrated using real API  
-- Local caching for smooth UX  
-🛠️ Tech: Flutter · GetX · REST API · JSON · HTTP  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-4479A1?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetStorage-8E24AA?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
-🔗 [View on GitHub](https://github.com/nazmul8451/Task-Manager.git)
+</div>
 
 ---
 
-#### 🌦️ Weather App  
-A beautiful **Weather Forecast** app that fetches live weather data using **OpenWeather API**.  
-- Real-time temperature, humidity, and wind updates  
-- Auto location detection  
-- Animated weather icons  
-🛠️ Tech: Flutter · Provider · REST API · Geolocator  
+### 📱 Featured Projects
 
-🔗 [View on GitHub](https://github.com/nazmul8451/Weather-App-with-API.git)
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px;">
+
+  <!-- Task Manager App -->
+  <div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 20px; background: #f9f9f9;">
+    <h3>🗂️ Task Manager App</h3>
+    <p>Clean and functional Task Management app built with Flutter, GetX, and REST API integration.</p>
+    <ul align="left">
+      <li>Add, update, and delete tasks</li>
+      <li>Real API backend integration</li>
+      <li>Local caching for smooth UX</li>
+    </ul>
+    <p><b>Tech:</b> Flutter · GetX · REST API · JSON</p>
+    <a href="https://github.com/nazmul8451/Task-Manager.git">
+      🔗 View on GitHub
+    </a>
+  </div>
+
+  <!-- Weather App -->
+  <div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 20px; background: #f9f9f9;">
+    <h3>🌦️ Weather App</h3>
+    <p>Beautiful weather forecast app fetching live data via OpenWeather API.</p>
+    <ul align="left">
+      <li>Real-time temperature, humidity, and wind</li>
+      <li>Auto location detection</li>
+      <li>Animated weather icons</li>
+    </ul>
+    <p><b>Tech:</b> Flutter · Provider · REST API · Geolocator</p>
+    <a href="https://github.com/nazmul8451/Weather-App-with-API.git">
+      🔗 View on GitHub
+    </a>
+  </div>
+
+  <!-- Grocery App -->
+  <div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 20px; background: #f9f9f9;">
+    <h3>🛒 Grocery App</h3>
+    <p>A modern e-commerce UI app for grocery shopping experience.</p>
+    <ul align="left">
+      <li>Product listing, cart, and checkout UI</li>
+      <li>Responsive and minimal design</li>
+      <li>Built with GetX for scalability</li>
+    </ul>
+    <p><b>Tech:</b> Flutter · GetX · Firebase (future)</p>
+    <a href="https://github.com/nazmul8451/Online-Grocary-App.git">
+      🔗 View on GitHub
+    </a>
+  </div>
+
+  <!-- SQLite CRUD App -->
+  <div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 20px; background: #f9f9f9;">
+    <h3>💾 SQLite CRUD App</h3>
+    <p>Powerful local database demo app for learning CRUD operations with SQLite.</p>
+    <ul align="left">
+      <li>Offline data management</li>
+      <li>Add / edit / delete records</li>
+      <li>Lightweight and educational</li>
+    </ul>
+    <p><b>Tech:</b> Flutter · SQLite · Sqflite</p>
+    <a href="https://github.com/nazmul8451/SQLite-CRUD-APP.git">
+      🔗 View on GitHub
+    </a>
+  </div>
+</div>
 
 ---
 
-#### 🛒 Grocery App  
-A modern **E-Commerce UI** app for grocery shopping experience.  
-- Product listing, cart system, and checkout UI  
-- Responsive, clean and minimal design  
-- Built with state management for scalability  
-🛠️ Tech: Flutter · GetX · Firebase (future plan)  
-
-🔗 [View on GitHub](https://github.com/nazmul8451/Online-Grocary-App.git)
+### 💡 About Me
+<p align="center" style="max-width: 700px; margin: auto;">
+I’m a <b>Flutter developer from Dhaka, Bangladesh</b> who loves building <b>efficient, scalable mobile apps</b>.  
+Currently focused on <b>app architecture, API integration, and UI/UX optimization</b>.  
+My goal is to become a <b>professional software engineer</b> and create impactful digital solutions.  
+</p>
 
 ---
 
-#### 💾 SQLite CRUD App  
-A simple yet powerful **CRUD (Create, Read, Update, Delete)** demo using **SQLite** for offline data storage.  
-- Local database management  
-- Add / edit / delete records  
-- Ideal for learning database operations in Flutter  
-🛠️ Tech: Flutter · SQLite · Sqflite Plugin  
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nazmul8451" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-🔗 [View on GitHub](https://github.com/nazmul8451/SQLite-CRUD-APP.git)
+---
+
+<p align="center" style="font-size: 14px; color: #999;">
+✨ Crafted with passion by <b>Rimon Islam</b> | © 2025
+</p>
+
+</div>
