@@ -45,61 +45,60 @@ I aim to become a <b>professional software engineer</b> and build impactful, inn
 
 ---
 
-### 📱 Featured Projects
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 25px;">
 
-<!-- Task Manager App -->
-<div style="background: linear-gradient(145deg, #f5f5f5, #ffffff); border-radius: 14px; padding: 20px; width: 90%; max-width: 700px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: 0.3s;">
-  <h3 style="color: #00bcd4;">🗂️ Task Manager App</h3>
-  <p>A clean and functional task management app built with Flutter, GetX, and REST API.</p>
-  <ul align="left">
+<!-- 💼 Featured Projects -->
+<h2 align="center" style="color:#00E5FF;">📱 Featured Projects</h2>
+
+<!-- 🗂️ Task Manager App -->
+<div style="border:1px solid #333; border-radius:12px; padding:20px; margin:15px 0; background:#0D1117;">
+  <h3>🗂️ Task Manager App</h3>
+  <p>A clean and functional <b>Task Management</b> app built with Flutter, GetX, and REST API integration.</p>
+  <ul>
     <li>Add, update, and delete tasks</li>
     <li>Connected to a real backend API</li>
     <li>Local caching for smooth performance</li>
   </ul>
   <p><b>Tech:</b> Flutter · GetX · REST API · JSON</p>
-  <a href="https://github.com/nazmul8451/Task-Manager.git" style="text-decoration:none; font-weight:bold;">🔗 View on GitHub</a>
+  🔗 <a href="https://github.com/nazmul8451/Task-Manager.git" style="color:#00E5FF;">View on GitHub</a>
 </div>
 
-<!-- Weather App -->
-<div style="background: linear-gradient(145deg, #f5f5f5, #ffffff); border-radius: 14px; padding: 20px; width: 90%; max-width: 700px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-  <h3 style="color: #00bcd4;">🌦️ Weather App</h3>
-  <p>Beautiful weather forecast app that fetches live data using OpenWeather API.</p>
-  <ul align="left">
+<!-- 🌦️ Weather App -->
+<div style="border:1px solid #333; border-radius:12px; padding:20px; margin:15px 0; background:#0D1117;">
+  <h3>🌦️ Weather App</h3>
+  <p>Beautiful <b>Weather Forecast</b> app that fetches live weather data using OpenWeather API.</p>
+  <ul>
     <li>Real-time temperature, humidity, and wind</li>
     <li>Auto location detection</li>
     <li>Animated weather icons</li>
   </ul>
   <p><b>Tech:</b> Flutter · Provider · REST API · Geolocator</p>
-  <a href="https://github.com/nazmul8451/Weather-App-with-API.git" style="text-decoration:none; font-weight:bold;">🔗 View on GitHub</a>
+  🔗 <a href="https://github.com/nazmul8451/Weather-App-with-API.git" style="color:#00E5FF;">View on GitHub</a>
 </div>
 
-<!-- Grocery App -->
-<div style="background: linear-gradient(145deg, #f5f5f5, #ffffff); border-radius: 14px; padding: 20px; width: 90%; max-width: 700px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-  <h3 style="color: #00bcd4;">🛒 Grocery App</h3>
-  <p>A modern e-commerce UI app for a grocery shopping experience.</p>
-  <ul align="left">
+<!-- 🛒 Grocery App -->
+<div style="border:1px solid #333; border-radius:12px; padding:20px; margin:15px 0; background:#0D1117;">
+  <h3>🛒 Grocery App</h3>
+  <p>A modern <b>E-Commerce UI</b> app for a grocery shopping experience.</p>
+  <ul>
     <li>Product listing, cart system, and checkout UI</li>
     <li>Responsive and minimal design</li>
     <li>Built with GetX for scalability</li>
   </ul>
   <p><b>Tech:</b> Flutter · GetX · Firebase (future)</p>
-  <a href="https://github.com/nazmul8451/Online-Grocary-App.git" style="text-decoration:none; font-weight:bold;">🔗 View on GitHub</a>
+  🔗 <a href="https://github.com/nazmul8451/Online-Grocary-App.git" style="color:#00E5FF;">View on GitHub</a>
 </div>
 
-<!-- SQLite CRUD App -->
-<div style="background: linear-gradient(145deg, #f5f5f5, #ffffff); border-radius: 14px; padding: 20px; width: 90%; max-width: 700px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-  <h3 style="color: #00bcd4;">💾 SQLite CRUD App</h3>
-  <p>Offline CRUD demo app built with Flutter and SQLite database for data management.</p>
-  <ul align="left">
+<!-- 💾 SQLite CRUD App -->
+<div style="border:1px solid #333; border-radius:12px; padding:20px; margin:15px 0; background:#0D1117;">
+  <h3>💾 SQLite CRUD App</h3>
+  <p>A simple yet powerful <b>CRUD (Create, Read, Update, Delete)</b> demo using SQLite for offline data storage.</p>
+  <ul>
     <li>Local database management</li>
     <li>Add / edit / delete records</li>
-    <li>Lightweight and educational</li>
+    <li>Ideal for learning database operations in Flutter</li>
   </ul>
-  <p><b>Tech:</b> Flutter · SQLite · Sqflite</p>
-  <a href="https://github.com/nazmul8451/SQLite-CRUD-APP.git" style="text-decoration:none; font-weight:bold;">🔗 View on GitHub</a>
-</div>
-
+  <p><b>Tech:</b> Flutter · SQLite · Sqflite Plugin</p>
+  🔗 <a href="https://github.com/nazmul8451/SQLite-CRUD-APP.git" style="color:#00E5FF;">View on GitHub</a>
 </div>
 
 ---
