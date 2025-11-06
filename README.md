@@ -6,15 +6,6 @@
 
 ---
 
-## 📋 Table of Contents
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects)
-- [GitHub Stats](#github-stats)
-- [Connect With Me](#connect-with-me)
-
----
-
 ## 💡 About Me
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px 0; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
