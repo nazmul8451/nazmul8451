@@ -1,7 +1,7 @@
 <!-- ✨ Stylish GitHub Portfolio README for Rimon Islam -->
 
 <!-- 🌈 Animated Header -->
-<p4 align="center">
+<p align="center">
   <svg viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
     <text x="50%" y="60%" text-anchor="middle" font-size="46" fill="url(#grad)" stroke="#00E5FF" stroke-width="1" font-family="Poppins">
       🧑‍💻 Rimon Islam
@@ -17,7 +17,7 @@
       </linearGradient>
     </defs>
   </svg>
-</p4>
+</p>
 
 <h3 align="center" style="font-size: 22px; color: #00BCD4;">
   Flutter Developer | Mobile App Engineer | Problem Solver
