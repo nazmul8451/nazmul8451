@@ -2,8 +2,6 @@
   <img src="https://github.com/nazmul8451/nazmul_islam_rimon/blob/main/Nazmul%20islam%20Rimon%20(1).png" />
 </p>
 🧑‍💻 Rimon Islam — Flutter Developer | Mobile App Engineer
-![🧑‍💻 Rimon Islam ]
-![Flutter Developer | Mobile App Engineer]
 
 Hi there 👋  
 I'm **Rimon**, a passionate **Flutter developer and mobile app engineer** from **Dhaka, Bangladesh**.  
