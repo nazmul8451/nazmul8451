@@ -1,21 +1,36 @@
-# 🧑‍💻 Rimon Islam
-
-### Flutter Developer | Mobile App Engineer | Problem Solver
-
-🚀 Passionate about crafting high-performance, scalable, and visually stunning mobile apps using Flutter. I enjoy solving complex problems and transforming creative ideas into elegant digital solutions. Always learning, always building, always improving. 🌱
-
----
-
-## 💡 About Me
-
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px 0; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-
-👋 Hi, I'm **Rimon Islam**, a dedicated **Flutter Developer** from **Dhaka, Bangladesh**. My focus lies in **mobile app architecture, API integration, local data handling, and UI/UX optimization**. I aim to become a **professional software engineer** and build impactful, innovative digital products that enhance user experiences.
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/99175785/219602495-23f2f845-f938-4e3a-969c-29d291881799.gif" width="100%" alt="Developer Banner"/>
+  <h1>**🧑‍💻 Rimon Islam**</h1>
+  <h3>🚀 Flutter Developer | Mobile App Engineer | Problem Solver</h3>
 </div>
 
 ---
 
+## 💡 **About Me**
+
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px 0; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
+  <p style="font-size: 1.1em; margin-bottom: 15px;">
+    👋 Hi, I'm **Rimon Islam**, a passionate **Flutter Developer** from **Dhaka, Bangladesh**.
+  </p>
+  <p style="font-size: 1.2em; font-weight: bold;">
+    My focus lies in:
+  </p>
+  <p style="font-size: 1.1em; line-height: 1.6;">
+    Mobile App **Architecture** | 🌐 **API Integration** | 💾 Local **Data Handling** | 🎨 **UI/UX Optimization**
+  </p>
+</div>
+
+> **🎯 My Goal:** To become a professional software engineer, building impactful, innovative digital products that truly enhance user experiences. **Always learning, always building, always improving. 🌱**
+
+---
+
+## ✨ **What I Do**
+
+* **📱 Crafting High-Performance Apps:** Passionate about creating **scalable**, **visually stunning**, and **high-performance** mobile apps using the Flutter framework.
+* **🛠️ Problem Solving:** Enjoy diving into complex challenges and transforming creative ideas into elegant digital solutions.
+* **📚 Continuous Improvement:** Dedicated to mastering the latest mobile development techniques and best practices.
+
+---
 ## 🛠️ Tech Stack
 
 ### Programming Languages
