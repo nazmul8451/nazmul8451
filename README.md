@@ -76,6 +76,13 @@ A modern <b>E-Commerce UI</b> app for a grocery shopping experience.
 🔗 [View on GitHub](https://github.com/nazmul8451/Online-Grocary-App.git)
 </div>
 
+### 🗂️ Ai ChatBot App
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+Loading...
+**Tech:** Flutter · GetX · REST API · JSON  
+🔗 [View on GitHub](https://github.com/nazmul8451/Task-Manager.git)
+</div>
+
 ### 💾 SQLite CRUD App
 <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
 A simple yet powerful <b>CRUD (Create, Read, Update, Delete)</b> demo using SQLite for offline data storage.
