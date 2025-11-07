@@ -11,7 +11,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #1C1C1C 0%, #303030 100%); border-radius: 15px; padding: 30px; margin: 20px 0; color: #EAEAEA; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
     <p style="font-size: 1.2em; margin-bottom: 15px;">
-        👋 Hi, I'm **Nazmul Islam Rimon**, a dedicated **Flutter Developer** from **Dhaka, Bangladesh**.
+        👋 Hi, I'm Flutter Developer from Dhaka, Bangladesh.
     </p>
     <ul style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1em; text-align: left; display: inline-block;">
         <li><span style="font-weight: bold; color: #764BA2;">🚀 Passionate about crafting **high-performance**, **scalable**, and **visually stunning** mobile apps using **Flutter**. I enjoy solving complex problems and transforming creative ideas into elegant digital solutions. Always learning, always building, always improving. 🌱</li>
