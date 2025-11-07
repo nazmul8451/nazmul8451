@@ -1,36 +1,29 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99175785/219602495-23f2f845-f938-4e3a-969c-29d291881799.gif" width="100%" alt="Developer Banner"/>
-  <h1>**🧑‍💻 Rimon Islam**</h1>
-  <h3>🚀 Flutter Developer | Mobile App Engineer | Problem Solver</h3>
+  <div style="background: linear-gradient(90deg, #4458C9 0%, #764BA2 100%); border-radius: 20px; padding: 25px 40px; margin-bottom: 30px; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
+    <h1 style="font-size: 3.5em; margin: 0; line-height: 1.2;">**🧑‍💻 Nazmul Islam Rimon**</h1>
+    <h3 style="font-size: 1.5em; margin-top: 5px; font-weight: 300;">Flutter Developer | Mobile App Engineer | Problem Solver</h3>
+  </div>
 </div>
 
 ---
 
-## 💡 **About Me**
+## 💡 **Introduction**
 
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px 0; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-  <p style="font-size: 1.1em; margin-bottom: 15px;">
-    👋 Hi, I'm **Rimon Islam**, a passionate **Flutter Developer** from **Dhaka, Bangladesh**.
-  </p>
-  <p style="font-size: 1.2em; font-weight: bold;">
-    My focus lies in:
-  </p>
-  <p style="font-size: 1.1em; line-height: 1.6;">
-    Mobile App **Architecture** | 🌐 **API Integration** | 💾 Local **Data Handling** | 🎨 **UI/UX Optimization**
-  </p>
+🚀 Passionate about crafting **high-performance**, **scalable**, and **visually stunning** mobile apps using **Flutter**. I enjoy solving complex problems and transforming creative ideas into elegant digital solutions. Always learning, always building, always improving. 🌱
+
+---
+
+## 🧠 **About Me**
+
+<div align="center" style="background: linear-gradient(135deg, #1C1C1C 0%, #303030 100%); border-radius: 15px; padding: 30px; margin: 20px 0; color: #EAEAEA; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
+    <p style="font-size: 1.2em; margin-bottom: 15px;">
+        👋 Hi, I'm **Nazmul Islam Rimon**, a dedicated **Flutter Developer** from **Dhaka, Bangladesh**.
+    </p>
+    <ul style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1em; text-align: left; display: inline-block;">
+        <li><span style="font-weight: bold; color: #764BA2;">Focus Area:</span> Mobile app architecture, API integration, local data handling, and UI/UX optimization.</li>
+        <li><span style="font-weight: bold; color: #764BA2;">Goal:</span> I aim to become a professional software engineer and build impactful, innovative digital products that enhance user experiences.</li>
+    </ul>
 </div>
-
-> **🎯 My Goal:** To become a professional software engineer, building impactful, innovative digital products that truly enhance user experiences. **Always learning, always building, always improving. 🌱**
-
----
-
-## ✨ **What I Do**
-
-* **📱 Crafting High-Performance Apps:** Passionate about creating **scalable**, **visually stunning**, and **high-performance** mobile apps using the Flutter framework.
-* **🛠️ Problem Solving:** Enjoy diving into complex challenges and transforming creative ideas into elegant digital solutions.
-* **📚 Continuous Improvement:** Dedicated to mastering the latest mobile development techniques and best practices.
-
----
 ## 🛠️ Tech Stack
 
 ### Programming Languages
