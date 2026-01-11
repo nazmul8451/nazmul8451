@@ -29,6 +29,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-4479A1?style=for-the-badge&logo=flutter&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4CAF50?style=for-the-badge&logo=socket.io&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora%20Live-099DFD?style=for-the-badge&logo=agora&logoColor=white)
 
 ### Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
