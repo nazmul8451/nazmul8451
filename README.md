@@ -48,7 +48,7 @@
 ## 📱 Featured Projects
 
 
-🎉 Gathering – Event Discovery & Social App
+### 🎫 Gathering – Event Discovery & Social App
 <div style="background: linear-gradient(135deg, #ff512f 0%, #dd2476 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 
 A modern and scalable Event Discovery & Social Networking app that helps users find, join, and host events effortlessly — all from one place.
