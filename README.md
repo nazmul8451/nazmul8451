@@ -47,6 +47,35 @@
 
 ## 📱 Featured Projects
 
+
+🎉 Gathering – Event Discovery & Social App
+<div style="background: linear-gradient(135deg, #ff512f 0%, #dd2476 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+
+A modern and scalable Event Discovery & Social Networking app that helps users find, join, and host events effortlessly — all from one place.
+
+🚀 Core Features
+
+📍 Discover nearby events (parties, concerts, meetups, festivals)
+
+🎫 Join & host events with real-time updates
+
+👤 User authentication & profile management
+
+💬 Social interaction with attendees
+
+🔔 Dynamic event feeds & smart filtering
+
+🌐 Fully integrated REST API (backend-ready)
+
+💾 Optimized state management & local caching
+
+🛠️ Tech Stack
+
+Flutter · Provider · REST API · JSON · Agora . WebSocket . GoogleMaps . Agora RTC engine
+🔗 GitHub Repository:
+🔗 [View on GitHub](https://github.com/nazmul8451/Event-Discovery-App.git)
+</div>
+
 ### 🗂️ Task Manager App
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
 A clean and functional <b>Task Management</b> app built with Flutter, GetX, and REST API integration.
