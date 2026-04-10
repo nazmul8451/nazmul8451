@@ -14,7 +14,7 @@
         👋 Hi, I'm Flutter Developer from Dhaka, Bangladesh.
     </p>
     <ul style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1em; text-align: left; display: inline-block;">
-        <li><span style="font-weight: bold; color: #764BA2;">🚀 Passionate about crafting **high-performance**, **scalable**, and **visually stunning** mobile apps using Flutter. I enjoy solving complex problems and transforming creative ideas into elegant digital solutions. Always learning, always building, always improving. 🌱</li>
+        <li><span style="font-weight: bold; color: #764BA2;">🚀 Passionate about crafting high-performance,scalable and visually stunning mobile apps using Flutter. I enjoy solving complex problems and transforming creative ideas into elegant digital solutions. Always learning, always building, always improving. 🌱</li>
         <li><span style="font-weight: bold; color: #764BA2;">Goal:</span> I aim to become a professional software engineer and build impactful, innovative digital products that enhance user experiences.</li>
     </ul>
 </div>
