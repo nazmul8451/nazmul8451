@@ -1,7 +1,7 @@
 <div align="center">
   <div style="background: linear-gradient(90deg, #4458C9 0%, #764BA2 100%); border-radius: 20px; padding: 25px 40px; margin-bottom: 30px; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
     <h1 style="font-size: 3.5em; margin: 0; line-height: 1.2;">🧑‍💻 Nazmul Islam Rimon</h1>
-    <h3 style="font-size: 1.5em; margin-top: 5px; font-weight: 300;">Flutter Developer | Mobile App Engineer | Problem Solver</h3>
+    <h3 style="font-size: 1.5em; margin-top: 5px; font-weight: 300;">Flutter Developer | Mobile App Developer | Problem Solver</h3>
   </div>
 </div>
 
