@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Nazmul%20Islam%20Rimon&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%E2%80%A2%20Android%20%26%20iOS&descSize=18&descAlignY=58" alt="Nazmul Islam Rimon — Flutter Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Nazmul%20Islam%20Rimon&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Android%20and%20iOS&descSize=18&descAlignY=58" alt="Nazmul Islam Rimon — Flutter Developer" width="100%" />
 
 <a href="https://my-portfolio-2026-rouge.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=I+build+fast%2C+beautiful+cross-platform+apps;From+the+first+pixel+to+the+Play+Store+%26+App+Store;Creator+of+TurfPlay+%E2%80%94+live+on+Google+Play" alt="Typing intro" />
