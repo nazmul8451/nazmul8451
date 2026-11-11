@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Nazmul%20Islam%20Rimon&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Android%20and%20iOS&descSize=18&descAlignY=58" alt="Nazmul Islam Rimon — Flutter Developer" width="100%" />
-
-<a href="https://my-portfolio-2026-rouge.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=I+build+fast%2C+beautiful+cross-platform+apps;From+the+first+pixel+to+the+Play+Store+%26+App+Store;Creator+of+TurfPlay+%E2%80%94+live+on+Google+Play" alt="Typing intro" />
-</a>
+<img src="./assets/header.svg" alt="Nazmul Islam Rimon — Flutter Developer for Android and iOS" width="100%" />
 
 <p>
   <a href="https://my-portfolio-2026-rouge.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -32,6 +28,8 @@ I'm a **Flutter developer based in Dhaka, Bangladesh**, currently building produ
 | Feb 2026 — Present | **Jr. Flutter Developer** | SparkTech Agency |
 | Nov 2025 — Jan 2026 | Trainee Flutter Developer | SparkTech Agency |
 
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## 🚀 Featured work
 
 > Most of my client and product work lives in private repositories — the case studies below show what shipped.
@@ -58,6 +56,8 @@ I'm a **Flutter developer based in Dhaka, Bangladesh**, currently building produ
 | [Online Grocery App](https://github.com/nazmul8451/Online-Grocary-App) | E-commerce UI with product listing, cart and checkout flow | Flutter · GetX |
 | [Txme Service App](https://github.com/nazmul8451/Txme-Service-App) | Service-booking app built for a client | Flutter |
 | [SQLite CRUD App](https://github.com/nazmul8451/SQLite-CRUD-APP) | Offline-first CRUD demo with local database storage | Flutter · sqflite |
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🛠️ Tech stack
 
@@ -108,6 +108,8 @@ I'm a **Flutter developer based in Dhaka, Bangladesh**, currently building produ
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nazmul8451&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🤝 Let's work together
 
