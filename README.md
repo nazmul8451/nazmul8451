@@ -1,172 +1,121 @@
 <div align="center">
-  <div style="background: linear-gradient(90deg, #4458C9 0%, #764BA2 100%); border-radius: 20px; padding: 25px 40px; margin-bottom: 30px; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.25);">
-    <h1 style="font-size: 3.5em; margin: 0; line-height: 1.2;">🧑‍💻 Nazmul Islam Rimon</h1>
-    <h3 style="font-size: 1.5em; margin-top: 5px; font-weight: 300;">Flutter Developer | Mobile App Developer | Problem Solver</h3>
-  </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Nazmul%20Islam%20Rimon&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%E2%80%A2%20Android%20%26%20iOS&descSize=18&descAlignY=58" alt="Nazmul Islam Rimon — Flutter Developer" width="100%" />
+
+<a href="https://my-portfolio-2026-rouge.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=I+build+fast%2C+beautiful+cross-platform+apps;From+the+first+pixel+to+the+Play+Store+%26+App+Store;Creator+of+TurfPlay+%E2%80%94+live+on+Google+Play" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://my-portfolio-2026-rouge.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rimon-islam-797004239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1iLQRecmPLa1fkMA-yvWLWfM_p5E3CZ1u/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.turfplay.app"><img src="https://img.shields.io/badge/TurfPlay_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="TurfPlay on Google Play" /></a>
+</p>
+
 </div>
 
----
+## 👋 About me
 
-## 🧠 **About Me**
+I'm a **Flutter developer based in Dhaka, Bangladesh**, currently building production apps at **SparkTech Agency**. I care about smooth 60 fps interfaces, clean architecture, and the small details users feel but never notice — and I own the full lifecycle, from Figma to store release and OTA hotfixes.
 
-<div align="center" style="background: linear-gradient(135deg, #1C1C1C 0%, #303030 100%); border-radius: 15px; padding: 30px; margin: 20px 0; color: #EAEAEA; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-    <p style="font-size: 1.2em; margin-bottom: 15px;">
-        👋 Hi, I'm Flutter Developer from Dhaka, Bangladesh.
-    </p>
-    <ul style="list-style-type: none; padding: 0; margin: 0; font-size: 1.1em; text-align: left; display: inline-block;">
-        <li><span style="font-weight: bold; color: #764BA2;">🚀 Passionate about crafting high-performance,scalable and visually stunning mobile apps using Flutter. I enjoy solving complex problems and transforming creative ideas into elegant digital solutions. Always learning, always building, always improving. 🌱</li>
-        <li><span style="font-weight: bold; color: #764BA2;">Goal:</span> I aim to become a professional software engineer and build impactful, innovative digital products that enhance user experiences.</li>
-    </ul>
-</div>
-## 🛠️ Tech Stack
+- 🔭 **Now:** Jr. Flutter Developer @ SparkTech Agency
+- 🚀 **Built solo:** [TurfPlay](https://play.google.com/store/apps/details?id=com.turfplay.app) — a sports-turf booking SaaS, live on Google Play
+- 🧩 **Day to day:** Flutter · Dart · GetX / Provider · REST & WebSockets · Firebase · payments
+- 🌱 **Exploring:** Node.js + Socket.IO backends and AI-powered mobile features
+- 💼 **Open to:** freelance projects and full-time Flutter roles
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 💼 Experience
 
+| Period | Role | Company |
+| :-- | :-- | :-- |
+| Feb 2026 — Present | **Jr. Flutter Developer** | SparkTech Agency |
+| Nov 2025 — Jan 2026 | Trainee Flutter Developer | SparkTech Agency |
 
-### Flutter Ecosystem
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-4479A1?style=for-the-badge&logo=flutter&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4CAF50?style=for-the-badge&logo=socket.io&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora%20Live-099DFD?style=for-the-badge&logo=agora&logoColor=white)
+## 🚀 Featured work
 
-### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white)
+> Most of my client and product work lives in private repositories — the case studies below show what shipped.
 
-### Tools & IDEs
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+| Project | What it is | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **TurfPlay** 🟢 *Live* | On-demand sports-turf booking SaaS. Real-time slot booking for players, automated slot & revenue management for venue owners. Conceived, architected and built solo. | Flutter · GetX · Firebase · Cloud Functions · Google Maps · Payment gateway | [Google Play](https://play.google.com/store/apps/details?id=com.turfplay.app) · [Case study](https://my-portfolio-2026-rouge.vercel.app/projects/turfplay-app) |
+| **Djarna** 🟢 *Live* | Multi-vendor e-commerce marketplace with real-time chat and local payments. | Flutter · Provider · REST API · Socket.IO · PayDunya | [Case study](https://my-portfolio-2026-rouge.vercel.app/projects/djarna-marketplace) |
+| **Gathering** 🟢 *Live* | Event discovery & social app — find, join and host nearby events. | Flutter · Google Maps · Firebase · REST API | [Case study](https://my-portfolio-2026-rouge.vercel.app/projects/event-discovery) |
+| **Pokémon Card Scanner** | AI-powered card recognition tool for collectors. | Flutter · AI / ML · REST API · Socket · Push notifications | [Case study](https://my-portfolio-2026-rouge.vercel.app/projects/pokemon-scanner) · [Code](https://github.com/nazmul8451/PokemonCardScanner) |
+| **BeanCraft Coffee** | Coffee ordering app with online payments. | Flutter · Provider · Node.js · AWS · Stripe | [Case study](https://my-portfolio-2026-rouge.vercel.app/projects/beancraft-coffee) |
 
-### Payment Integration
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+<p align="center">
+  <a href="https://my-portfolio-2026-rouge.vercel.app/projects"><b>See all projects →</b></a>
+</p>
 
----
+## 📂 Open-source & learning projects
 
-## 📱 Featured Projects
+| Repository | Description | Stack |
+| :-- | :-- | :-- |
+| [PC Builder App](https://github.com/nazmul8451/Elahi-versity-project) | Custom PC configuration, prebuilt PC storefront and order tracking — [live demo](https://pc-builder-livid-beta.vercel.app) | Flutter |
+| [Task Manager](https://github.com/nazmul8451/Task-Manager) | Task management app backed by a real REST API, with local caching | Flutter · GetX · REST API |
+| [Weather App](https://github.com/nazmul8451/Weather-App-with-API) | Live weather forecasts with automatic location detection | Flutter · Provider · Geolocator |
+| [Online Grocery App](https://github.com/nazmul8451/Online-Grocary-App) | E-commerce UI with product listing, cart and checkout flow | Flutter · GetX |
+| [Txme Service App](https://github.com/nazmul8451/Txme-Service-App) | Service-booking app built for a client | Flutter |
+| [SQLite CRUD App](https://github.com/nazmul8451/SQLite-CRUD-APP) | Offline-first CRUD demo with local database storage | Flutter · sqflite |
 
+## 🛠️ Tech stack
 
-### 🎫 Gathering – Event Discovery & Social App
-<div style="background: linear-gradient(135deg, #ff512f 0%, #dd2476 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<table>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, Android Studio" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>State & architecture</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white" alt="GetX" />
+      <img src="https://img.shields.io/badge/Provider-0175C2?style=flat-square&logo=flutter&logoColor=white" alt="Provider" />
+      <img src="https://img.shields.io/badge/Clean_Architecture-2E7D32?style=flat-square" alt="Clean Architecture" />
+      <img src="https://img.shields.io/badge/Shorebird_OTA-1E88E5?style=flat-square" alt="Shorebird OTA" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & real-time</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase,nodejs,sqlite,postman" alt="Firebase, Node.js, SQLite, Postman" height="36" />
+      <br />
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API" />
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+      <img src="https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square" alt="Agora RTC" />
+      <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dart,cpp,c,python,java,js,html,css" alt="Dart, C++, C, Python, Java, JavaScript, HTML, CSS" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel" alt="Git, GitHub, Figma, VS Code, Vercel" height="36" />
+    </td>
+  </tr>
+</table>
 
-A modern and scalable Event Discovery & Social Networking app that helps users find, join, and host events effortlessly — all from one place.
-
-🚀 Core Features
-
-📍 Discover nearby events (parties, concerts, meetups, festivals)
-
-🎫 Join & host events with real-time updates
-
-👤 User authentication & profile management
-
-💬 Social interaction with attendees
-
-🔔 Dynamic event feeds & smart filtering
-
-🌐 Fully integrated REST API (backend-ready)
-
-💾 Optimized state management & local caching
-
-🛠️ Tech Stack
-
-Flutter · Provider · REST API · JSON · Agora . WebSocket . GoogleMaps . Agora RTC engine
-🔗 GitHub Repository:
-🔗 [View on GitHub](https://github.com/nazmul8451/Event-Discovery-App.git)
-</div>
-
-### 🗂️ Task Manager App
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-A clean and functional <b>Task Management</b> app built with Flutter, GetX, and REST API integration.
-- ✅ Add, update, and delete tasks
-- 🌐 Connected to a real backend API
-- 💾 Local caching for smooth performance
-
-**Tech:** Flutter · GetX · REST API · JSON  
-🔗 [View on GitHub](https://github.com/nazmul8451/Task-Manager.git)
-</div>
-
-### 🌦️ Weather App
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-Beautiful <b>Weather Forecast</b> app that fetches live weather data using OpenWeather API.
-- 🌡️ Real-time temperature, humidity, and wind
-- 📍 Auto location detection
-- 🎨 Animated weather icons
-
-**Tech:** Flutter · Provider · REST API · Geolocator  
-🔗 [View on GitHub](https://github.com/nazmul8451/Weather-App-with-API.git)
-</div>
-
-### 🛒 Grocery App
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-A modern <b>E-Commerce UI</b> app for a grocery shopping experience.
-- 🛍️ Product listing, cart system, and checkout UI
-- 📱 Responsive and minimal design
-- 🚀 Built with GetX for scalability
-
-**Tech:** Flutter · GetX · Firebase (future)  
-🔗 [View on GitHub](https://github.com/nazmul8451/Online-Grocary-App.git)
-</div>
-
-### 🗂️ Ai ChatBot App
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-Loading...
-**Tech:** Flutter · GetX · REST API · JSON  
-🔗 [View on GitHub](https://github.com/nazmul8451/Task-Manager.git)
-</div>
-
-### 💾 SQLite CRUD App
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 12px; padding: 20px; margin: 15px 0; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-A simple yet powerful <b>CRUD (Create, Read, Update, Delete)</b> demo using SQLite for offline data storage.
-- 💽 Local database management
-- ✏️ Add / edit / delete records
-- 📚 Ideal for learning database operations in Flutter
-
-**Tech:** Flutter · SQLite · Sqflite Plugin  
-🔗 [View on GitHub](https://github.com/nazmul8451/SQLite-CRUD-APP.git)
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub activity
 
 <div align="center">
-
-![Rimon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmul8451&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul8451&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nazmul8451&theme=radical&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com/?user=nazmul8451&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </div>
 
----
+## 🤝 Let's work together
 
-## 🌍 Connect With Me
+Have an app idea, a Figma file waiting to become a Flutter app, or an open Flutter role? I'd love to hear about it.
 
-<div align="center">
+<p>
+  <a href="https://my-portfolio-2026-rouge.vercel.app/#contact"><img src="https://img.shields.io/badge/Get_in_touch-13B9FD?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in touch" /></a>
+  <a href="https://www.linkedin.com/in/rimon-islam-797004239/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimon-islam-797004239/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nazmul8451)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white)](#)
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Coding](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
-
-✨ **Crafted with passion by Rimon Islam** | © 2025
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=100&section=footer" alt="" width="100%" />
