@@ -106,7 +106,15 @@ I'm a **Flutter developer based in Dhaka, Bangladesh**, currently building produ
 ## 📊 GitHub activity
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul8451&theme=tokyonight" alt="Contribution overview" width="100%" />
+  <br /><br />
   <img src="https://streak-stats.demolab.com/?user=nazmul8451&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazmul8451/nazmul8451/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazmul8451/nazmul8451/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/nazmul8451/nazmul8451/output/github-snake-dark.svg" alt="Contribution graph snake animation" width="100%" />
+  </picture>
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
